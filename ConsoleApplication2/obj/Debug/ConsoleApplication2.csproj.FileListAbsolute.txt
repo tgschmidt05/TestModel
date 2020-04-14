@@ -1,0 +1,17 @@
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Tobijamin\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Tobijamin\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Tobijamin\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Tobijamin\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Tobijamin\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\tgsch\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\OxyPlot.dll
+C:\Users\Schmidt\RiderProjects\Test_Model_1\ConsoleApplication2\bin\Debug\OxyPlot.dll
